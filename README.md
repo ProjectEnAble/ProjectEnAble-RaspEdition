@@ -10,8 +10,8 @@ Please check the "Security" file for more informations
 
 | Version | Supported          | Beta | Alpha |
 | ------- | ------------------ | ---- | ----- |
-| 3.1.0 - Beta | :white_check_mark | :x: | :x: |
-| 3.0.0 | :white_check_mark: | :x: | :x: |
+| 3.1.0 - Beta | :white_check_mark: | :white_check_mark: | :x: |
+| 3.0.0 | :x: | :x: | :x: |
 | 3.0.03 - Beta | :x: | :white_check_mark: | :x: |
 | 3.0.02 - Beta | :x: Cancelled  | :white_check_mark: | :x: |
 | 3.0.01 - Beta | :x: | :white_check_mark: | :x: |
