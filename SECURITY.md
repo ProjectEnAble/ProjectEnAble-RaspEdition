@@ -16,9 +16,9 @@ The current versions of Project: EnAble are currently supported. This will be up
 | 1.0     | :x:                | :x: | :x: |
 
 ## Reporting Issues and other Info
-You can report issues with the project, as well as contributions by visiting [The Project: EnAble Repository](http://github.com/projectenable/Project-Enable).
+You can report issues with the project, as well as contributions by visiting [The Project: EnAble Rapberry Pi Edition Repository](http://github.com/ProjectEnAble/Project-EnAble-RaspEdition).
 
-In order to view our Licenses, Code of Conduct, Contributions and other information visit [The Project: EnAble Repository](http://github.com/project/Project-Enable). 
+In order to view our Licenses, Code of Conduct, Contributions and other information visit [The Project: EnAble Repository](http://github.com/projectenable/Project-EnAble-RaspEdition). 
 
 ## Reporting a Vulnerability
 
