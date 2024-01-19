@@ -2,11 +2,10 @@
 ![GitHub License](https://img.shields.io/github/license/ProjectEnAble/ProjectEnAble-RaspEdition) ![GitHub Release](https://img.shields.io/github/v/release/ProjectEnAble/ProjectEnAble-RaspEdition) ![GitHub Discussions](https://img.shields.io/github/discussions/ProjectEnAble/ProjectEnAble-RaspEdition) ![X (formerly Twitter) Follow](https://img.shields.io/twitter/follow/proj_enable)
 
 # Releases 
-| Version | Supported |
-| ------- | --------- |
-| v4.0.0 | IN DEV |
-| [v3.1.0 - Beta](https://github.com/ProjectEnAble/ProjectEnAble-RaspEdition/releases/tag/v3.1.0-beta) | :white_check_mark: |
-| lower editions | :x: |
+|Version | Supported          |
+| ------- | ----------------- |
+| v4 | IN DEV |
+| v3.1.0 - Beta | :white_check_mark: |
 
 # About
 Project: EnAble is an open source prosthetic system and design created by Jeron Osguthorpe with hopes to help make the world more accessible. Project: EnAble uses a series of sensors, motors and micro computers (either RPi or Arduino) in order to control customizable
